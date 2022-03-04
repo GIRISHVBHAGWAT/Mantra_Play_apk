@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".app_indexer">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/Mantra_player"
+                android:layout_width="match_parent"
+                android:layout_height="250sp"
+                android:src="@drawable/record_play"
+                android:scaleType="fitXY"
+                android:layout_margin="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mantra Player"
+                android:layout_gravity="center"
+                android:paddingLeft="50sp"
+                android:textSize="30sp"
+                android:fontFamily="casual"
+                android:paddingRight="50sp"
+                />
+
+            <ImageButton
+                android:id="@+id/key_value"
+                android:layout_width="match_parent"
+                android:layout_height="250sp"
+                android:src="@drawable/key_value"
+                android:scaleType="fitXY"
+                android:layout_margin="20sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Key Value printer"
+                android:layout_gravity="center"
+                android:paddingLeft="50sp"
+                android:textSize="30sp"
+                android:fontFamily="casual"
+                android:paddingRight="50sp"
+                />
+
+            <!--            <ImageButton-->
+<!--                android:id="@+id/text_play"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:src="@drawable/text_play"-->
+<!--                android:layout_margin="20sp"/>-->
+
+<!--            <ImageButton-->
+<!--                android:id="@+id/mantra_play"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:src="@drawable/record_play"-->
+<!--                android:layout_margin="20sp"/>-->
+
+
+<!--            <ImageButton-->
+<!--                android:id="@+id/key_value1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:src="@drawable/key_value"-->
+<!--                android:layout_margin="20sp"/>-->
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

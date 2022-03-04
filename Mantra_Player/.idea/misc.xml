@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mantra_Player/app/src/main/res/drawable/my_button_2.xml" value="0.1125" />
+        <entry key="..\:/Mantra_Player/app/src/main/res/drawable/pract1.xml" value="0.1125" />
+        <entry key="..\:/Mantra_Player/app/src/main/res/drawable/writer_edit_text.xml" value="0.1125" />
+        <entry key="..\:/Mantra_Player/app/src/main/res/layout/activity_app_indexer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mantra_Player/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Mantra_Player/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mantra_Player/app/src/main/res/layout/activity_mantra_play.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mantra_Player/app/src/main/res/layout/activity_rec_play.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mantra_Player/app/src/main/res/layout/fragment_key_value.xml" value="0.1" />
+        <entry key="..\:/Mantra_Player/app/src/main/res/layout/fragment_text_writer.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
